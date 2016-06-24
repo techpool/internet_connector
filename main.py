@@ -52,4 +52,4 @@ def notify(title, message):
     p = '-appIcon favicon.ico'
     os.system('terminal-notifier {}'.format(' '.join([m, t, p])))
 
-loop_connector("suryadeep_ngc6", "Surya-23121994")
+loop_connector("username", "password)
